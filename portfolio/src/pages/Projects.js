@@ -46,7 +46,6 @@ class Projects extends Component{
                         <h4>
                         A full-stack CRUD travel blog application built using Ruby on Rails. 
                         Languages & technologies used:  <strong> HTML, CSS, Ruby, Ruby on Rails. </strong> <br/>
-                       
                         </h4>
                         <a href="https://github.com/megmenon/travel_on_rails" target="_blank">
                         <button class="btn btn-danger" type="button">View</button></a>

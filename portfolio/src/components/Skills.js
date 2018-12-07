@@ -31,7 +31,7 @@ class Skills extends Component{
                     <div className="card-body">
                         <h3 className="card-title des">Languages</h3>
                         <h4>
-                        JavaScript, Java
+                        JavaScript, Java, HTML, CSS
                         </h4>
                     </div>
                 </div>
