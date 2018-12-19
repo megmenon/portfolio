@@ -51,6 +51,22 @@ class Projects extends Component{
                         <button class="btn btn-danger" type="button">View</button></a>
                     </div>
                 </div>
+                <div class="w-100"></div>
+                    <div className="card special-skill-item border-0">
+                    <div className="card-header bg-transparent border-0"></div>
+                        <div className="card-body">
+                            <h3 className="card-title des">Microfinance</h3>
+                            <h4>
+                            A complete front-end React app that uses a real product. The product provides a banking infrastructure through APIs. 
+                            I built a website around this API using the company’s sandbox account. 
+                            The app mimics the workings of a loan provider company like SoFi where API calls are made to register a 
+                            loan application, view existing loan info, update/add new loan documents and also make transactions to pay loan installments.
+                            Languages & technologies used:  <strong> HTML, CSS, React. </strong> <br/>
+                            </h4>
+                            <a href="https://github.com/megmenon/react-microfinance-app" target="_blank">
+                            <button class="btn btn-danger" type="button">View</button></a>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
